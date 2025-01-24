@@ -8,7 +8,8 @@ Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in
 
 ### 🧰 My Tools
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="MS Excel" width="30px" style="padding-right:10px;"  src="https://i.postimg.cc/rps4JpBx/icons8-power-bi-logo-48.png" />
+<img align="left" alt="Power BI" width="30px" style="padding-right:10px;"  src="https://i.postimg.cc/rps4JpBx/icons8-power-bi-logo-48.png" />
+<img align="left" alt="" width="30px" style="padding-right:10px;"  src="https://i.postimg.cc/vTVTgwwR/Microsoft-Office-Excel-Logo.png" />
 
 #
 
