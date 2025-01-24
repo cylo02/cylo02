@@ -38,6 +38,7 @@ Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in
 <p><b> Skills Used:</b> MS Excel, Data Cleaning and Transformation, Data Visualization</p>
 
 <img align="left" alt="" width="2767px" style="padding-right:10px;"  src="https://i.postimg.cc/sgGzc6gr/Retail-Sales-Analysis-1.png" />
+
 ## Skills
 
 <p>• MS Excel (VLookup, Pivot Tables, Power Query)<p/>
