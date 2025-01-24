@@ -1,6 +1,6 @@
 # Hello, I'm Cyril!👋
 
-**`Aspiring Data Analyst | Interested in Data Analytics`**
+**`Financial Management Graduate | Aspiring Data Analyst | Interested in Data Analytics`**
 
 Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in data analysis, visualization, and storytelling. My goal is to leverage data-driven solutions to make impactful decisions in today's fast-paced world. I graduated with Bachelor of Science in Business Administration, Major in Financial Management in Polytechnic University of the Philippines - Manila. 
 
@@ -26,6 +26,9 @@ Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in
 <br />
 
 #
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
 
 #
 
