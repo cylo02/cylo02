@@ -34,3 +34,5 @@ Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in
 
 #
 
+
+  ![snake gif](https://github.com/cylo02/cylo02/blob/output/github-snake.svg)
