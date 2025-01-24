@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;"  src="https://i.postimg.cc/rps4JpBx/icons8-power-bi-logo-48.png" />
 <img align="left" alt="" width="30px" style="padding-right:10px;"  src="https://i.postimg.cc/vTVTgwwR/Microsoft-Office-Excel-Logo.png" />
 
-#
+### 🛠️ Skills
 
 #
 
