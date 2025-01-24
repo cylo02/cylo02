@@ -2,13 +2,11 @@
 
 **`Aspiring Data Analyst | Interested in Data Analytics`**
 
-Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in data analysis, visualization, and storytelling. My goal is to leverage data-driven solutions to make impactful decisions in today's fast-paced world. I graduated with Bachelor of Science in Business Administration, Major in Financial Management in Polytechnic University of the Philippines - Manila. I'm eager to 
-
-
+Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in data analysis, visualization, and storytelling. My goal is to leverage data-driven solutions to make impactful decisions in today's fast-paced world. I graduated with Bachelor of Science in Business Administration, Major in Financial Management in Polytechnic University of the Philippines - Manila. 
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 My Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
