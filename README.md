@@ -1,6 +1,6 @@
 # Hello, I'm Cyril!👋
 
-**`Aspiring Data Analyst`**
+**`Aspiring Data Analyst | Interested in Data Analytics`**
 
 Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in data analysis, visualization, and storytelling. My goal is to leverage data-driven solutions to make impactful decisions in today's fast-paced world. I graduated with Bachelor of Science in Business Administration, Major in Financial Management in Polytechnic University of the Philippines - Manila. I'm eager to 
 
