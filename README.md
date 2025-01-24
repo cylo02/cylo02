@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in
 
 ---
 
-### 🧰 My Tools
+### Languages and Tools
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;"  src="https://i.postimg.cc/rps4JpBx/icons8-power-bi-logo-48.png" />
 <img align="left" alt="" width="30px" style="padding-right:10px;"  src="https://i.postimg.cc/vTVTgwwR/Microsoft-Office-Excel-Logo.png" />
@@ -17,9 +17,20 @@ Welcome to my GitHub! I'm an enthusiastic problem-solver with a keen interest in
 
 #
 
-### 🛠️ Skills
+### Projects
 
+# 
 
+### Skills
+
+<p>• MS Excel (VLookup, Pivot Tables, Power Query)<p/>
+<p>• MS Power BI (Data Modeling, Data Visualization)<p/>
+<p>• SQL Database (MySQL)<p/>
+<p>• Other MS Office Suite Applications<p/>
+<p>• Analytical Thinking<p/>
+<p>• Team Player<p/>
+<p>• Communication Skills (Written and Verbal)<p/>
+<p>• Adaptability and Flexibility<p/>
 
 #
 
