@@ -1,7 +1,7 @@
 ## Hello World, I'm Cyril, an aspiring Data Analyst!👋
 
 <!--
-**cylo02/cylo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cylo02/cylo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
 Here are some ideas to get you started:
 
